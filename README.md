@@ -290,60 +290,17 @@ enhancing customer retention and reducing revenue loss.
 - **Tenure** and **contract length** are strong predictors of customer retention.  
 
 ---
----
 
-## 👨‍💻 Developer 
------
-   Nikhil Kumar
 
-**💼 Machine Learning Engineer | AI & ML Enthusiast | Data Science Enthusiast**
 
----
-
-### 🧾 Background
-
-Hi! I’m **V. Nikhil Kumar**, a passionate **Machine Learning Engineer** with a strong interest in data-driven solutions.  
-I specialize in building **predictive models**, **automating ML pipelines**, and developing **end-to-end machine learning web applications** that solve real-world problems.
-
----
-
-### 💪 Skills
-
-| **Category** | **Technologies / Tools** |
-|---------------|---------------------------|
-| Programming | Python |
-| Machine Learning | scikit-learn, XGBoost, feature-engine, imblearn |
-| Deep Learning | TensorFlow / Keras (basics) |
-| Web Development | Flask |
-| Data Visualization | Matplotlib, Seaborn |
-| Databases | SQL |
-| Version Control | Git & GitHub |
 
 ----
 
-### 💼 Previous Works
 
-| **Project** | **Description** | **Live Link** |
-|--------------|-----------------|---------------|
-| 📊 **Credit Card Customer Analysis** | Data-driven insights into customer credit usage patterns. | 🔗 *Coming Soon* |
-| 💰 **Salary and Profit Predictor** | ML regression project for profit prediction. | 🌐 [**View Project ↗**](https://simple-and-multiple-regression-project.onrender.com/) |
 
----
+## 🔗 Project Deployment: [AI-Powered Customer Retention Prediction System](https://customer-retention-prediction-4.onrender.com/)
 
-## 🔗 Project Deployment: [AI-Powered Customer Retention Prediction System](https://ai-powered-customer-retention-prediction-bc97.onrender.com/)
 
-**📞 Support**
-For support or queries, contact: [nikhilkumarchary30@gmail.com](mailto:nikhilkumarchary30@gmail.com)
-
-----
-### 📞 Connect with me:
-
-- **LinkedIn:** [linkedin.com/in/nikhilkumar91](https://linkedin.com/in/nikhilkumar91)  
-- **Email:** [nikhilkumarchary30@gmail.com](mailto:nikhilkumarchary30@gmail.com)  
-- **GitHub:** [github.com/Nikhilkumar91](https://github.com/Nikhilkumar91)  
-- **Mobile:** +91 9133164879  
-
----
 
 
 > 🌟 *Built with passion for AI, Data, and Real-world Impact.*
